@@ -9,4 +9,4 @@ Sharpe Ratio: 1.527589132921722
 ![Figure2](https://github.com/MahalyB/Netflix-Stock-Price-Analysis/assets/57423814/010229ee-e253-487f-aae3-4ca9e48bd3aa)
 Figure 2: Monte Carlo Simulation for Netflix Stock Prices over one trading year, including stock price mean and median
 
-Based on the Monte Carlo Simulation for Netflix Stock Prices, the mean and median show that in 2024, the stock price will increase in the upcoming trading year. Netflix may be a good stock to add to a portfolio.
+Based on the Monte Carlo Simulation for Netflix Stock Prices, the mean and median show that in 2024, the stock price will increase in the upcoming trading year. Netflix may be a good stock to add to my portfolio.

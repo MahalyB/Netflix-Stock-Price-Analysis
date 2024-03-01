@@ -72,7 +72,7 @@ plt.plot(mean_simulated_prices, label='Mean', linestyle='--', color='black', lin
 plt.plot(median_simulated_prices, label='Median', linestyle='--', color='red', linewidth=2)
 plt.title('Monte Carlo Simulation for Netflix Stock Price')
 plt.xlabel('Days')
-plt.legend()
 plt.ylabel('Stock Price')
+plt.legend()
 plt.show()
 

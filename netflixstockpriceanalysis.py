@@ -50,7 +50,7 @@ for i in range(num_simulations):
     # generate random daily returns for each day
     daily_returns = np.random.normal(netflix_daily_returns.mean(), netflix_daily_returns.std(), num_days)
    
-    # calculate simulated prices based on cumulative product of (1 + daily returns). CHECK THIS
+    # calculate simulated prices based on cumulative product of (1 + daily returns).
     simulated_prices = netflix_data['Adj Close'].iloc[-1] * (1 + np.cumprod(1 + daily_returns))
 
     # store simulated prices in stimulated_price_paths array
